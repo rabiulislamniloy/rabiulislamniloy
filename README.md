@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c language 
 - 💞️ I’m looking to collaborate on new programmer
-- 📫 How to reach me on Skype 
+- 📫 Reach me on Skype 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
